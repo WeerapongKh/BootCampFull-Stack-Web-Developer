@@ -1,0 +1,7 @@
+Heading element represent six level <h1> to <h6?
+
+Important Rule 
+    - Only one h1 because h1 is the very top Level Heading
+    - Don't skip level heading element
+
+ 
